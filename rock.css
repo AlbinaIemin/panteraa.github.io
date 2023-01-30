@@ -1,0 +1,131 @@
+html{
+    background-color: rgb(0, 0, 0);
+}
+body{
+    margin: 0px;
+    color: #ffffff;
+    font-family: "Lato", sans-serif;
+}
+#header {
+    background: #ffffff url(photo_5375431216720889899_x.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px; 
+}
+.img {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translate(0,250px);
+}
+
+.heading{
+    transform: translate(0,250px);
+text-align: center;
+}
+table{
+    text-align: center;
+    width: 100%;
+    font-size: 21px;
+    transform: translate(0,250px);
+}
+a{
+    text-decoration: none; 
+    color: rgb(255, 255, 255);
+}
+.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: max-content;
+    width: 100%;
+}
+.page-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.left-panel-wrapper {
+    width: 25%;
+}
+.foto{
+    text-align: center;
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6,
+.img7{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.content-wrapper {
+    /*width: 250px;*/
+    width: 50%;
+    padding: 0 30px;
+}
+.history{
+    text-align: center;
+}
+
+.right-panel-wrapper {
+    width: 25%;
+
+}
+.members{
+    text-align: center;
+}
+.zak{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 100px;
+}
+.fil{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 100px;
+}
+.reks{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 100px;
+}
+.carli{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 100px;
+}
+.namemembers{
+    text-align: center;
+    font-size: 19px;
+}
+#footer{
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: max-content; 
+}
+
+
+
+
